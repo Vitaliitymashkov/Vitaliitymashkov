@@ -1,5 +1,5 @@
 <h1 align="center">
-This is Vitalii
+This is Vitalii Tymashkov
 </h1>
 
 <h3 align="center"> Solutions architecture | Backend development | QA Automation </h3>
@@ -88,7 +88,7 @@ This is Vitalii
 
 <h2>🌐 Links</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/vitalii-tymashkov-en/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vitaliy-tymashkov-en/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
 <br><br>
 
 <h2>ℹ️ GitHub Info</h2>
